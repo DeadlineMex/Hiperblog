@@ -3,7 +3,7 @@ body
 	text-align: left;
 	color: #333;
 	font-family: "Arial";
-	front-size: 70px;
+	font-size: 20px;
 	margin: 0;
 	padding: 0;
 
@@ -18,5 +18,5 @@ body
 }
 #container h1
 {
-	front-size: 20px;
+	font-size: 20px;
 }
